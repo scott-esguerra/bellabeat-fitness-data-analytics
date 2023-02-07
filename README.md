@@ -13,3 +13,4 @@ Welcome to the Bellabeat analysis case study! In this study, I performed an exam
 
 - R
 - Tableau
+![324224881_751545116375852_941275255994452237_n](https://user-images.githubusercontent.com/124697193/217287212-04ff25c3-6b9b-4829-b7c8-7248641c4ea7.jpg)
