@@ -16,5 +16,5 @@ Welcome to the Bellabeat analysis case study! In this study, I performed an exam
 
 ### LINKS
 
-[Summary Report](https://sites.google.com/view/scott-esguerra/bellabeat-fitness-analysis?authuser=0)
-[Tableau Dashboard](https://public.tableau.com/views/BellabeatFitnessAnalysis_16756999898350/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Summary Report](https://sites.google.com/view/scott-esguerra/bellabeat-fitness-analysis?authuser=0)
+- [Tableau Dashboard](https://public.tableau.com/views/BellabeatFitnessAnalysis_16756999898350/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
